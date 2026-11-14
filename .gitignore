@@ -9,4 +9,4 @@ data/processed/*
 models/*
 !models/.gitkeep
 .env
-.catboost_info/
+.notebooks/catboost_info/
